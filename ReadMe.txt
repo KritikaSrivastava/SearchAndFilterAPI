@@ -11,7 +11,7 @@ http://ec2-13-56-115-212.us-west-1.compute.amazonaws.com:3000/searchProducts/
 
 http://ec2-13-56-115-212.us-west-1.compute.amazonaws.com:3000/searchProducts/search=tv&minPrice=50
 
-http://ec2-13-56-115-212.us-west-1.compute.amazonaws.com:3000/searchProducts/search=DVD&maxPrice=800&minReviewrating=3
+http://ec2-13-56-115-212.us-west-1.compute.amazonaws.com:3000/searchProducts/search=DVD&maxPrice=800&minReviewRating=3
 
 http://ec2-13-56-115-212.us-west-1.compute.amazonaws.com:3000/searchProducts/inStock=true&maxReviewCount=100
 
